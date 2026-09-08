@@ -1,1 +1,1 @@
-"Basic project title" 
+"This project now supports authntication" 

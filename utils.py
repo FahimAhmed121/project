@@ -1,1 +1,1 @@
-"empty file" 
+"def helper(): return login" 

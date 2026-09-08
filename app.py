@@ -1,1 +1,1 @@
- 
+"Welcome to auth system" 
